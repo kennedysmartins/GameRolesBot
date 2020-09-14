@@ -1,0 +1,10 @@
+{
+  "name": "RoleBot",
+  "version": "1.0.0",
+  "description": "A simple bot of gaming roles for discord",
+  "main": "app.js",
+  "author": "Kennedy Martins / KillerDogs",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
