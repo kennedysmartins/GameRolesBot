@@ -1,4 +1,4 @@
-# Game Roles Bot
+# Discord Game Roles Bot
 
 A simple bot that gives users roles according to the activity they are doing
 
