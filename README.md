@@ -1,8 +1,8 @@
-# Gaming Role Bot
+# Game Roles Bot
 
 A simple robot that gives users roles according to the activity they are doing
 
-The idea off the bot is simple and useful, when a user starts playing a game, he goes and adds a role to him
+The idea of the bot is simple and useful, when a user starts playing a game, he goes and adds a role to him
 
 
 
@@ -16,10 +16,10 @@ The idea off the bot is simple and useful, when a user starts playing a game, he
 
 ```bash
 # Clone the repository
-git clone https://github.com/KillerDogs/RoleBot.git
+git clone https://github.com/KillerDogs/GameRolesBot.git
 
 # Enter into the directory
-cd RoleBot/
+cd GameRolesBot/
 
 # Install the dependencies
 npm install
