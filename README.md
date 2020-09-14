@@ -1,1 +1,2 @@
-# RoleBot
+# Gaming Role Bot
+
