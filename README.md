@@ -29,6 +29,15 @@ npm install
 
 After cloning the project and installing all dependencies, you need to add your Discord API token in the config.json file.
 
+In app.js, there is a part that you must add the game you want to monitor, and put the role ID you created in your discord server.
+
+```bash
+"VALORANT": {
+        name: "valorant",             //NAME ROLE TOLOWERCASE
+        id: '735224527851618396'      //ROLE ID
+ },
+ ```
+
 ### Starting the application
 
 ```bash
