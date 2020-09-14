@@ -37,6 +37,7 @@ In app.js, there is a part that you must add the game you want to monitor, and p
         id: '735224527851618396'      //ROLE ID
  },
  ```
+ ![alt text](https://github.com/KillerDogs/images/blob/master/copyid.png?raw=true)
 
 ### Starting the application
 
