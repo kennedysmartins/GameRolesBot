@@ -56,7 +56,7 @@ var blackListUsers = ["297153970613387264", "240482527695994880", "1683314810248
 var blackListWords = ["spotify", "custom", "status", "noxplayer"]; //BLACKLIST ROLES UPDATE
 
 
-var client = new Discord.Client();
+var client = new Discord.Client({ ws: { intents: 'GUILD_PRESENCES' }});
 
 function collectRoleIds() {
     client.guilds.cache.forEach(function(server) {
