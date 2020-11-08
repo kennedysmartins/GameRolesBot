@@ -27,6 +27,8 @@ npm install
 
 ### Configuration
 
+
+
 After cloning the project and installing all dependencies, you need to add your Discord API token in the config.json file.
 
 In app.js, there is a part that you must add the game you want to monitor, and put the role ID you created in your discord server.
@@ -38,6 +40,11 @@ In app.js, there is a part that you must add the game you want to monitor, and p
  },
  ```
  ![alt text](https://github.com/KillerDogs/images/blob/master/copyid.png?raw=true)
+ 
+ ### Intents
+ You must manually enable the intents from the Discord Developer site. Go to applications, select your app, and find the "bot" tab on the sidebar. Then you can scroll down until you see this:
+ ![alt text](https://github.com/KillerDogs/images/blob/master/botcheck.png?raw=true)
+ 
 
 ### Starting the application
 
