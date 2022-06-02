@@ -1,8 +1,10 @@
 # Discord Game Roles Bot
 
-A simple bot that gives users roles according to the activity they are doing
+A simple bot that gives users roles according to the activity they are doing.
 
-The idea of the bot is simple and useful, when a user starts playing a game, he goes and adds a role to him
+The idea of the bot is simple and useful, when a user starts playing a game, the bot automatically gives the user the role. Once a user stops playing a game, the role is removed.
+
+<a href="https://i.imgur.com/VpkfmWl.gif"><img src="https://i.imgur.com/VpkfmWl.gif" title="Games Role Bot Preview"/></a>
 
 
 
