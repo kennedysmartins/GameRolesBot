@@ -18,7 +18,7 @@ The idea of the bot is simple and useful, when a user starts playing a game, the
 
 ```bash
 # Clone the repository
-git clone https://github.com/KillerDogs/GameRolesBot.git
+git clone https://github.com/kennedysmartins/GameRolesBot.git
 
 # Enter into the directory
 cd GameRolesBot/
