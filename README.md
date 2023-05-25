@@ -44,7 +44,7 @@ In app.js, there is a part that you must add the game you want to monitor, and p
  ![alt text](https://github.com/KillerDogs/images/blob/master/copyid.png?raw=true)
  
  ### Intents
- You must manually enable the intents from the Discord Developer site (https://discord.com/developers/applications/). Select your app, and find the "bot" tab on the sidebar. Then you can scroll down until you see this:
+ You must manually enable the intents from the [Discord Developer site](https://discord.com/developers/applications/). Select your app, and find the "bot" tab on the sidebar. Then you can scroll down until you see this:
  ![alt text](https://github.com/KillerDogs/images/blob/master/botcheck.png?raw=true)
  
 
